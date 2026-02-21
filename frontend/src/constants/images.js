@@ -1,0 +1,10 @@
+// ── Figma asset URLs ──
+export const CROISSANT_IMG_1 = 'https://api.builder.io/api/v1/image/assets/TEMP/bd304e1c28372c20bbe841fbb71b12e60862dd15?width=400'
+export const CROISSANT_IMG_2 = 'https://api.builder.io/api/v1/image/assets/TEMP/ba76d86edc0cf3a9d6d22964b691cf61bc09d101?width=400'
+export const BANNER_IMG = 'https://api.builder.io/api/v1/image/assets/TEMP/d228b194c64b3c94d16bdea41f1beac3a7adffc1?width=1040'
+export const ABOUT_TEAM_IMG = 'https://api.builder.io/api/v1/image/assets/TEMP/627356d5b5e08eabde7c165c756d11cc140ec430?width=1040'
+export const ABOUT_FOUNDER_IMG = 'https://api.builder.io/api/v1/image/assets/TEMP/a1bcd2fa00678f6cb5781a86d5641feccb3998d8?width=376'
+export const REVIEW_FOOD_IMG = 'https://api.builder.io/api/v1/image/assets/TEMP/f3906b0130f9bca9ac834993bf3dd1b60ac78541?width=448'
+export const CART_THUMB_IMG = 'https://api.builder.io/api/v1/image/assets/TEMP/bdf31408c9477dac7868f4be4723fd7ca5ac363e?width=160'
+export const RATE_IMG_1 = 'https://api.builder.io/api/v1/image/assets/TEMP/bd304e1c28372c20bbe841fbb71b12e60862dd15?width=400'
+export const RATE_IMG_2 = 'https://api.builder.io/api/v1/image/assets/TEMP/5869526086d77e89b227dbe0f0d589da46e399ad?width=400'
