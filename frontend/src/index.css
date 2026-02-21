@@ -1,1 +1,52 @@
-@import "tailwindcss";
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-blue: #005ECA;
+  --light-blue-bg: #F8FBFF;
+  --veg-green: #00BE33;
+  --alert-red: #FF263C;
+  --muted-text: #B1B1B1;
+  --dark-btn: #101010;
+  --rating-yellow: #FFBB00;
+  --border-color: #E9E9E9;
+  --font-inter: 'Inter', -apple-system, Roboto, Helvetica, sans-serif;
+  --text-primary: #000000;
+  --text-secondary: rgba(0, 0, 0, 0.6);
+  --text-dimmed: rgba(0, 0, 0, 0.4);
+  --shadow-card: 0 4px 17.2px 0 rgba(0, 0, 0, 0.10);
+}
+
+html, body {
+  font-family: var(--font-inter);
+  background: #f0f2f5;
+  color: var(--text-primary);
+  min-height: 100vh;
+}
+
+button {
+  font-family: var(--font-inter);
+  cursor: pointer;
+}
+
+input, textarea {
+  font-family: var(--font-inter);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0;
+  max-width: 100%;
+  text-align: left;
+}
